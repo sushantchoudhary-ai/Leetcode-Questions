@@ -16,9 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
