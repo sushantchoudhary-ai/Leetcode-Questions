@@ -8,6 +8,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -16,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0015-3sum) |
 | [0704-binary-search](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -26,4 +28,8 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0704-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
