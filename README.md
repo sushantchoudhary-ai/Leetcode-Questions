@@ -8,6 +8,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0125-valid-palindrome) |
@@ -18,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0198-house-robber](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0198-house-robber) |
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0198-house-robber) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
