@@ -12,6 +12,7 @@
 | [0015-3sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -24,6 +25,7 @@
 | [0015-3sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0704-binary-search](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -42,6 +44,7 @@
 | [0015-3sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
