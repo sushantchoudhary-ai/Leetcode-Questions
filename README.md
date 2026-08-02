@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
