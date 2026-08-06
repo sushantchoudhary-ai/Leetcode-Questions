@@ -15,6 +15,7 @@
 | [0018-4sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0056-merge-intervals](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0198-house-robber) |
+| [0283-move-zeroes](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
