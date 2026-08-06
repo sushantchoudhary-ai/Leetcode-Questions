@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
@@ -45,6 +47,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -83,4 +86,16 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0056-merge-intervals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
