@@ -21,6 +21,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
@@ -69,6 +71,7 @@
 | [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -78,6 +81,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -112,4 +116,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
