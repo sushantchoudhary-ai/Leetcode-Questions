@@ -14,6 +14,7 @@
 | [0015-3sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0283-move-zeroes) |
@@ -40,6 +41,7 @@
 | [0015-3sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0198-house-robber) |
