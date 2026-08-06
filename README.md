@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0007-reverse-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0172-factorial-trailing-zeroes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,4 +130,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1672-richest-customer-wealth) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
