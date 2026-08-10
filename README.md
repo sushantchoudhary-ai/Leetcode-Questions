@@ -36,6 +36,7 @@
 | [0014-longest-common-prefix](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
@@ -89,6 +90,7 @@
 | [0056-merge-intervals](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -122,6 +124,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
