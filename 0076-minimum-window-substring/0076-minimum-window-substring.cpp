@@ -5,10 +5,10 @@ public:
 
         unordered_map<char, int> mp;
         unordered_map<char, int> a;
-        for (char x : t) {
+        for (char x : t) 
+        {
             mp[x]++;
         }
-        
         int window_size = 0;
         int t_requirement = mp.size();
         int left = 0;
