@@ -57,6 +57,7 @@
 | [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
@@ -200,4 +201,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
