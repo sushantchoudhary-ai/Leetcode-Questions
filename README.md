@@ -28,6 +28,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
@@ -64,6 +65,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1672-richest-customer-wealth) |
@@ -97,6 +99,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -113,6 +116,7 @@
 | [0324-wiggle-sort-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -190,4 +194,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0374-guess-number-higher-or-lower) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
