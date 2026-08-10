@@ -74,6 +74,7 @@
 | [1929-concatenation-of-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3731-find-missing-elements](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0905-sort-array-by-parity](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0242-valid-anagram](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3731-find-missing-elements](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
