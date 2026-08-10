@@ -8,6 +8,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0877-stone-game) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -71,6 +72,7 @@
 | [1672-richest-customer-wealth](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
 | ------- |
