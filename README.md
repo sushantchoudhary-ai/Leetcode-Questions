@@ -9,6 +9,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
