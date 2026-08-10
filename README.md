@@ -48,6 +48,7 @@
 | [0016-3sum-closest](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0198-house-robber) |
@@ -97,6 +98,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0877-stone-game) |
 ## Greedy
@@ -160,6 +162,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0324-wiggle-sort-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
 ## Quickselect
 |  |
