@@ -56,6 +56,7 @@
 | [0056-merge-intervals](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0283-move-zeroes) |
@@ -83,6 +84,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 ## Quicksort
 |  |
 | ------- |
@@ -207,5 +210,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
