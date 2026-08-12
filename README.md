@@ -21,6 +21,7 @@
 | [0031-next-permutation](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0344-reverse-string) |
@@ -62,6 +63,7 @@
 | [0053-maximum-subarray](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0217-contains-duplicate) |
@@ -94,6 +96,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sushantchoudhary-ai/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
